@@ -22,7 +22,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Contine Animation"),
+        title: Text("Contine " ),
         backgroundColor: Colors.black,
       ),
       body: GestureDetector(
