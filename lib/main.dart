@@ -22,7 +22,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Contine " ),
+        title: Text("Contine coneem " ),
         backgroundColor: Colors.black,
       ),
       body: GestureDetector(
